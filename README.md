@@ -101,3 +101,8 @@ This contributes to energy efficiency as by reducing resource usage during idle 
 ## Source Directory
 
 Contains all the necessary source code for the shell and system programs. It is divided into the shell implementation (`shell.c`, `shell.h`) and system programs (`system_programs/`).
+
+## Team members
+- Ng Wan Qing
+- Shivani Mariappan
+- Ho Atsadet
